@@ -50,7 +50,7 @@ void addStudent(Node*& head) {
     cin >> studentID;
     cout << "Enter GPA: ";
     cin >> GPA;
-}
+
     // Create a new student
     Student* newStudent = new Student(firstName, lastName, studentID, GPA);
     // Add the student to the linked list
