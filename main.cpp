@@ -4,8 +4,8 @@
 // i must build a linked list using a students code as the node.h and nodoe.cpp
 //
 #include <iostream>
-#include "node.h"
-#include "student.h"
+#include "Node.h"
+#include "Student.h"
 #include <iomanip> // Add this line for setprecision
 using namespace std;
 // Function prototypes
