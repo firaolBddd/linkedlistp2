@@ -4,8 +4,8 @@
 // i must build a linked list using a students code as the node.h and nodoe.cpp
 //
 #include <iostream>
-#include "Node.h"
-#include "Student.h"
+#include "node.h"
+#include "student.h"
 #include <iomanip> // Add this line for setprecision
 using namespace std;
 // Function prototypes
@@ -58,6 +58,7 @@ void addStudent(Node*& head) {
     newNode->setNext(head);
     head = newNode;
     cout << "Student added successfully." << endl;
+}
 // Function to print all students in the linked list
 void printStudents(Node* head) {
     // Sample implementation, replace with your logic
