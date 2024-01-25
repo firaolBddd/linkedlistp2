@@ -1,4 +1,4 @@
-#include "node.h"
+#include "Node.h"
 // Implementation of Node class functions
 Node::Node(Student* studentvalue)
 {
