@@ -1,6 +1,6 @@
  // node .cpp from peers 
 //Node class: each node holds a student and next student (links to the next student)
-#include "Node.h"
+#include "node.h"
 #ifndef STUDENT_H
 #define STUDENT_H
 
