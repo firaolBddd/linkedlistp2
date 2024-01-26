@@ -1,6 +1,6 @@
 // the node h is from the student also 
 //Header file for Node class
-#include "Student.h"
+#include "student.h"
 
 using namespace std;
 
